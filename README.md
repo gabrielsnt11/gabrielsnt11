@@ -1,6 +1,6 @@
 ## Gabriel Santana 
 
-**`Estudando para CTFL`**
+
 
 Meu nome é Gabriel Santana da Rocha, tenho 19 anos. Concluí o ensino médio na E.E.P.M e o curso técnico em Informática
 e Robótica na MicroCamp. Atualmente, estou cursando Sistemas de Informação na UMC. Sou apaixonado por tecnologia e, por aqui,
