@@ -2,7 +2,7 @@
 
 
 
-Meu nome é Gabriel Santana da Rocha, tenho 19 anos. Concluí o ensino médio na E.E.P.M e o curso técnico em Informática
+Meu nome é Gabriel Santana da Rocha, tenho 20 anos. Concluí o ensino médio na E.E.P.M e o curso técnico em Informática
 e Robótica na MicroCamp. Atualmente, estou cursando Sistemas de Informação na UMC. Sou apaixonado por tecnologia e, por aqui,
 compartilharei meus projetos e conquistas. Meu objetivo é me especializar na área de automação de testes (QA).
 
